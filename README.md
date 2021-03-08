@@ -1,2 +1,3 @@
 # Coursera_Capstone
-this repository is  for coursera course
+This repository is  for coursera course.
+Finding Optimal location for opening a Restaurant.
